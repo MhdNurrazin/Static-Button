@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Lesson 2 Exercise</title>
+    <link rel="stylesheet" href="/intro-to-html/Styles/Lesson2Exercise.css">
+  </head>
+  <body>
+    <button class="uber-button">
+      Request now
+    </button>
+    
+    <button class="amazon-button">
+      Add to Cart
+    </button>
+    
+    <button class="Github-button">
+      Sign up
+    </button>
+    
+    <p>
+    </p>
+    
+    <button class="Bootstrap1-button">
+      Get started
+    </button>
+    
+    <button class="Bootstrap2-button">
+      Download
+    </button>
+    
+    <p>
+    </p>
+    
+    <button class="LinkedIn1-button">
+      Apply on company website
+    </button>
+    
+    <button class="LinkedIn2-button">
+      Save
+    </button>
+  </body>
+</html>
+
